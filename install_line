@@ -1,0 +1,1 @@
+npm install --save-dev webpack babel-loader babel babel-preset-es2015 babel-plugin-transform-react-jsx react react-dom react-bootstrap xhr

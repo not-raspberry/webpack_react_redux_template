@@ -1,0 +1,24 @@
+{
+  "name": "dziadowice",
+  "version": "0.0.1",
+  "description": "Dziadu dziadu",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "babel-preset-es2015": "^6.9.0",
+    "immutable": "^3.8.1",
+    "react": "^15.1.0",
+    "react-bootstrap": "^0.29.4",
+    "react-dom": "^15.1.0",
+    "webpack": "^1.13.1",
+    "xhr": "^2.2.0"
+  },
+  "scripts": {
+    "watch": "webpack --watch --progress --color",
+    "build": "webpack --progress --color"
+  },
+  "author": "",
+  "license": "ISC"
+}
